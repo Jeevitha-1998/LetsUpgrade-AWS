@@ -1,2 +1,0 @@
-# LetsUpgrade-AWS
-Assignments
